@@ -1,0 +1,16 @@
+---
+layout: project
+type: project
+image: img/vacay/vacay-square.png
+title: "Respiration of Puijila darwini"
+date: 2021
+published: true
+labels:
+  - R
+  - Excel
+summary: "A predictive analysis of the respiration patterns of the Puijila darwini."
+---
+
+This was a research project that I created in ZOOL430, Summer 2021. This project helped me learn how to utilize data analysis software such as R and excel. 
+
+In this project, I calculated the respiratory patterns and oxygen consumption of the extinct pinniped ancestor, the Puijila darwini using only its fossil's morphology and the known behavior of its evolutionary descendents. Doing this helped me gain experience with data science and using R.
