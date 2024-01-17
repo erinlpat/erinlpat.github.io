@@ -9,6 +9,7 @@ labels:
   - Javascript
   - Learning
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/tortoise_hare.jpg">
 
 # My Own Pace
 
