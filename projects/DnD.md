@@ -12,7 +12,7 @@ labels:
 summary: "Imagined, organized, and maintained a Dungeons and Dragons campaign for a year with various physical and coded builds to aid our campaign."
 ---
 <div class="text-center p-4">
-  <img width="200px" src="../img/DnD1.jpeg" class="img-thumbnail" >
+  <img width="600px" src="../img/DnD1.jpeg" class="img-thumbnail" >
   <img width="200px" src="../img/DnD2.jpeg" class="img-thumbnail" >
   <img width="200px" src="../img/DnD3.jpeg" class="img-thumbnail" >
 </div>
