@@ -11,11 +11,11 @@ labels:
   - Javascript
 summary: "Imagined, organized, and maintained a Dungeons and Dragons campaign for a year with various physical and coded builds to aid our campaign."
 ---
-<p align="middle">
-  <img width="600px" class="rounded float-start pe-4" src="../img/DnD1.jpeg" />
-  <img width="200px" class="rounded float-start pe-4" src="../img/DnD2.jpeg" /> 
-  <img width="200px" class="rounded float-start pe-4" src="../img/DnD3.jpeg" />
-</p> 
+<div class="text-center p-4">
+  <img width="200px" src="../img/DnD1.jpeg" class="img-thumbnail" >
+  <img width="200px" src="../img/DnD2.jpeg" class="img-thumbnail" >
+  <img width="200px" src="../img/DnD3.jpeg" class="img-thumbnail" >
+</div>
 
 This project is a year-long Dungeons and Dragons campaign that ran from the spring of 2022 until the spring of 2023. I worked together with the Game Master to build the game, the terrain, and created a program for the game as well.
 
