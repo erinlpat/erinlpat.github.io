@@ -21,3 +21,4 @@ This DnD campaign was one of the first ones I had a hand in creating instead of 
 This project helped me gain experience using Javascript and was part of how I discover how coding can be applicable to real-life scenarios even in small ways. Other than technical skills, this campaign put me in a position of leadership where I had to consistently organize and maintain gaming sessions, story-building, and manage a team of 8 players. This helped me learn how to lead complex projects and foster teamwork and creativity in a group of people new to the game. 
 
 Below I will include my dice roll program.
+<script async src="//jsfiddle.net/erinlpat/qngco0w2/15/embed/"></script>
