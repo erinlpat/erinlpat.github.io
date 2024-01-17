@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/DnDCover.jpg
+image: img/DnDCover.jpeg
 title: "DnD Campaign"
 date: 2022
 published: true
