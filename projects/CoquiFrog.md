@@ -11,8 +11,7 @@ labels:
 summary: "A Coqui Frog sound sensor that detects the presence of the invasive species."
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/CoquiSize.jpg">
-<img width="200px" class="rounded float-start pe-4" src="../img/BreadBoardEx.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/CoquiSize.jpg"> <img width="200px" class="rounded float-start pe-4" src="../img/BreadBoardEx.jpg">
 
 The Coqui Frog Sensor is a project I am assisting with in the UH Manoa Entomology lab. 
 
