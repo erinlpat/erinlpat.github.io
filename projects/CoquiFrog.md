@@ -11,6 +11,9 @@ labels:
 summary: "A Coqui Frog sound sensor that detects the presence of the invasive species."
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/CoquiSize.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/BreadBoardEx.jpg">
+
 The Coqui Frog Sensor is a project I am assisting with in the UH Manoa Entomology lab. 
 
 In this project I built a Coqui frog sensor on a bread board and transfered it to a circuit board. The machine senses the Coqui Frogs' call and alerts us to its presence in the vicinity of the sensor. It is used to track the invasive population. I also assist with the machine learning and programming of the sensor in python under the guidance of a graduate student.
