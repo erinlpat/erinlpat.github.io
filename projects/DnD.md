@@ -13,7 +13,8 @@ summary: "Imagined, organized, and maintained a Dungeons and Dragons campaign fo
 ---
 
 <img width="600px" class="rounded float-start pe-4" src="../img/DnD1.jpeg"> <img width="200px" class="rounded float-start pe-4" src="../img/DnD2.jpeg"> <img width="200px" class="rounded float-start pe-4" src="../img/DnD3.jpeg">  
-<br>
+
+
 This project is a year-long Dungeons and Dragons campaign that ran from the spring of 2022 until the spring of 2023. I worked together with the Game Master to build the game, the terrain, and created a program for the game as well.
 
 This DnD campaign was one of the first ones I had a hand in creating instead of just participating in. I had just began to learn how to code in Javascript and decided to create a random dice roll program to use for our game just for fun, especially for when our party met remotely instead of physically at the table. In addition to the dice roll program I also created physical terrain builds to aid in immersion and table-top quality during gaming sessions. 
