@@ -23,7 +23,7 @@ I used R and excel to calculate the possible metabolic rates and heat balances o
 In this project I gained experience with data science and its associated technologies including R. I used R to compile, analyze, and extrapolate data about the Puijila darwini's metabolic rates using just measurements from the physical morphology of its fossil. Doing my own research about the species and then having to translate that data into programming skills was an extremely challenging yet interesting endevour. 
 
 Below is a link to the full paper.
-<a href="essays/PuijilaMetabolism.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="erinlpat.github.io/essays/PuijilaMetabolism.pdf" target="_blank">PDF.</a>
 
 Below is an exerpt of code I created in R to do these calculations.
 
