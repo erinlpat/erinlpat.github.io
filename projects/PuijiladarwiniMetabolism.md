@@ -10,8 +10,11 @@ labels:
   - Excel
 summary: "A predictive analysis of the metabolism and heat balance of the common ancestor of modern-day pinnipeds, the Puijila darwini. "
 ---
-
-<img width="200px" class="rounded float-start pe-4" src="../img/DnD1.jpg">
+<div class="text-center p-4">
+  <img width="200px" src="../img/Puijiladarwini1.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/DnD2.jpeg" class="img-thumbnail" >
+  <img width="200px" src="../img/DnD3.jpeg" class="img-thumbnail" >
+</div>
 
 This was a research project I worked on for the entirety of the semester in ZOOL430 (Animal Physiology). 
 
