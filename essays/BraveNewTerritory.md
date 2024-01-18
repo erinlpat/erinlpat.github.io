@@ -10,7 +10,9 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<div class="text-center p-4">
+  <img width="400px" src="../img/CSBio" class="img-thumbnail" >
+</div>
 
 I know the krebs cycle like the back of my hand. I could tell you the ins and outs of the functions of hemoglobin and how it lets us all breathe the air. I even know why we have air at all, and how we evolved to use it. I know all of these things and yet I have never felt more incapable in my entire life. I have spent the last four years endlessly pouring over journals, textbooks, and articles about nearly every field in biology. Taking countless classes, exams, and labs in the field that I am extremely passionate about. Now here I am, stubbornly struggling through completely new territory in software engineering, algorithms, and bioinformatics in addition to my biology major. So why did I decide to study computer science in my final year at university? 
 
