@@ -9,7 +9,9 @@ labels:
   - Questions
   - Learning
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/tortoise_hare.jpg">
+<div class="text-center p-4">
+  <img width="400px" src="../img/SmartQuestion" class="img-thumbnail" >
+</div>
 
 # My Experience
 As a student who is merely minoring in computer science with a stronger background in the natural sciences, about 90% of my time is spent asking questions about programming, algorithms, and mathematics I can make no sense of. Whether it be to my professors, TAs, peers, or even to online sources like StackOverflow, I will ask questions about anything and everything I am not fully confident about. However, as time has passed I have learned that asking questions in itself is a sort of art form. At the very beginning of my career as a computer science student, I didn’t even know things like StackOverflow existed, let alone how to ask effective questions on it. What I did know was that it was a godsend. I was ecstatic at the idea of a public forum that was built specifically to help people with programming. It was exactly what I needed! Until it wasn’t. My first few tries at asking questions on StackOverflow were met with comments from users not answering my question, but instead asking me questions. It would take several days for me to get a proper answer because of the back-and-forth I had to engage in to clarify my questions. Soon I realized that not only did I need to improve my programming skills, but I also needed to figure out how to ask smart questions.
