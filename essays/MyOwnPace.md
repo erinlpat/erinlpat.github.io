@@ -7,7 +7,7 @@ date: 2023-01-16
 published: true
 labels:
   - Javascript
-  - Learning
+  - Athletic Learning
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/tortoise_hare.jpg">
 
