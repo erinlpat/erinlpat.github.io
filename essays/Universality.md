@@ -8,7 +8,7 @@ published: true
 labels:
   - IntelliJ
   - Coding Environments
-  - Learning
+  - Reflection
 ---
 <div class="text-center p-4">
   <img width="400px" src="../img/standards.png" class="img-thumbnail" >
