@@ -12,8 +12,8 @@ labels:
   - UI Design
 ---
 <div class="text-center p-4">
-  <img width="400px" src="../img/MyTDR" class="img-thumbnail">
-  <img width="400px" src="../img/MyTDR2" class="img-thumbnail">
+  <img width="400px" src="../img/MyTDR.png" class="img-thumbnail">
+  <img width="400px" src="../img/MyTDR2.png" class="img-thumbnail">
 </div>
 
 # Sinking
