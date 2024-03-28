@@ -15,10 +15,10 @@ labels:
 </div>
 
 # Group Members
-Natalie Dang
-Carlo Viloria
-Jerald Cascayan
-Darrius Dacquel
+Natalie Dang <br>
+Carlo Viloria <br>
+Jerald Cascayan <br>
+Darrius Dacquel <br>
 Erin Patterson
 
 # Overview
