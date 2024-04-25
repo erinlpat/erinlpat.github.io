@@ -12,8 +12,7 @@ labels:
   - Design Patterns
 ---
 <div class="text-center p-4">
-  <img width="400px" src="../img/MyTDR.png" class="img-thumbnail">
-  <img width="400px" src="../img/MyTDR2.png" class="img-thumbnail">
+  <img width="400px" src="../img/puzzle.jpg" class="img-thumbnail">
 </div>
 
 # Opening the Box
