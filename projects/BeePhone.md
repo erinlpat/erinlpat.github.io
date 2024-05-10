@@ -26,7 +26,7 @@ summary: "A bee hive sensor that tracks a hive's population and internal conditi
 
 ## My Role
 <div style="display: flex; align-items: center;">
-  <div style="margin-right: 20px;">
+  <div style="margin-right: 20px; display: flex;">
     <img width="200px" src="../img/BeePhone/BeePhone.jpeg" alt="Coqui Frog">
     <img width="200px" src="../img/BeePhone/BeeSolar.jpeg" alt="Coqui Frog">
   </div>
