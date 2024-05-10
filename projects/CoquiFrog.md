@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CoquiFrog
+image: img/Coqui/Coqui.jpg
 title: "Coqui Frog Sensor"
 date: 2023
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A Coqui Frog sound sensor that detects the presence of the invasive species."
 ---
 <div class="text-center p-4">
-  <img width="400px" src="../img/Coqui/Coqui.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/Coqui/Coqui.jpg" class="img-thumbnail" >
   <img width="400px" src="../img/Coqui/CoquiBreadBoard.jpeg" class="img-thumbnail" >
 </div>
 
@@ -21,7 +21,7 @@ The Coqui Frog Sensor is an ongoing project I am assisting with in Dr. Mark Wrig
 ## My Role
 <div style="display: flex; align-items: flex-start;">
   <div style="margin-right: 20px;">
-    <img src="../img/Coqui/April.jpeg" alt="Description" style="width: 500px;">
+    <img src="../img/Coqui/April.jpeg" alt="Description" style="width: 200px;">
   </div>
   <div>
     In this project I am assisting in building the Coqui frog sensor from start to finish and after we develop the final product, I will be in charge of producing multiple sensors so we can place them in different locations and get a wide range of data. The first part of the process of building the sensor was to collect data on coqui frog calls to train the sensor to pick them up. I listened to over 5 hours of coqui frog recordings at took over 200 samples of isolated coqui frog calls to train our machine. To the left is a picture of me and my trusty lab assistant April taking coqui frog samples on the audio editing software Audacity.
