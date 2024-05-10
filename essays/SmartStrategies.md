@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Smart Strategies"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-22
+date: 2024-01-22
 published: true
 labels:
   - Questions
