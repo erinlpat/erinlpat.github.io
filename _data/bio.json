@@ -14,18 +14,19 @@
     ]
   },
   "interests": [
-    { "name": "Data Science" },
-    { "name": "Bioinformatics" },
-    { "name": "Computational Biology" }
+    { "name": "Conservation Biology" },
+    { "name": "Machine Learning" },
+    { "name": "UI/UX Design" },
+    { "name": "Application Design" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "R"]
+      "keywords": [ "MacOS", "Git/GitHub", "R", "Meteor"]
     }
   ],
   "education": [
@@ -41,15 +42,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa College of Tropical Agriculture and Human Resources",
+      "company": "University of Hawaii at Manoa College of Tropical Agriculture and Human Resources",
       "position": "Undergraduate Lab Assistant",
-      "website": "",
-      "startDate": "2023-01-01",
+      "website": "https://cms.ctahr.hawaii.edu",
+      "startDate": "2024-01-01",
       "endDate": "Present",
       "summary": "Undergraduate lab assistant to graduate students in the entomology lab working with machine learning and data science",
       "highlights": [
-        "Build and maintain machines and their programs and circuitry",
-        "Assist in lab maintenance and fieldwork"
+        "Engaged in a conservation biology lab, utilizing computer science and machine learning to develop innovative machinery for conservation efforts. Assisted in the design, programming, and deployment of devices, integrating technology with ecological research to enhance data accuracy and environmental impact.",
+        "Assist in lab maintenance and fieldwork."
+      ]
+    },
+    {
+      "company": "The Face Shop",
+      "position": "Sales Associate",
+      "website": "https://www.thefaceshop.com.my",
+      "startDate": "2023-10-01",
+      "endDate": "Present",
+      "summary": "Sales associate ",
+      "highlights": [
+        "Expert in skincare-focused cosmetics, adept at educating customers on ingredient benefits and their interactions with the skin. Delivered personalized service, enhancing customer satisfaction and driving sales through informed consultations and up-to-date knowledge of industry trends.",
+        "Assist in lab maintenance and fieldwork."
       ]
     }
   ],
