@@ -9,11 +9,12 @@ labels:
   - C++
   - Machine Learning
   - Electrical Engineering
+  - Conservation Biology
 summary: "A Coqui Frog sound sensor that detects the presence of the invasive species."
 ---
 
 ## Overview
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
     <img width="200px" src="../img/Coqui/Coqui.jpg" alt="Coqui Frog">
   </div>
@@ -22,10 +23,12 @@ summary: "A Coqui Frog sound sensor that detects the presence of the invasive sp
   </div>
 </div>
 
+<br>
+
 ## My Role
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
-    <img width="400px" src="../img/Coqui/April.jpeg" alt="April and me" class="img-thumbnail">
+    <img width="200px" src="../img/Coqui/April.jpeg" alt="April and me">
   </div>
   <div>
     In this project I am assisting in building the Coqui frog sensor from start to finish and after we develop the final product, I will be in charge of producing multiple sensors so we can place them in different locations and get a wide range of data. The first part of the process of building the sensor was to collect data on coqui frog calls to train the sensor to pick them up. I listened to over 5 hours of coqui frog recordings at took over 200 samples of isolated coqui frog calls to train our machine. Moreover, I also took about 1000 samples of unrelated sounds to train the sensor to ignore any non-coqui sounds. The first picture above is of me and my trusty lab assistant April taking coqui frog samples on the audio editing software Audacity.
