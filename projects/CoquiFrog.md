@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Coqui/CoquiThumbnail.jpeg
 title: "Coqui Frog Sensor"
-date: 2023
+date: 2024
 published: true
 labels:
   - C++
@@ -35,7 +35,7 @@ summary: "A Coqui Frog sound sensor that detects the presence of the invasive sp
 
 While in the process of building my sample library, I also began to wire the sensor's electrical circuitry on a breadboard as shown in the second picture above. The breadboard allows me to plan out my wiring before I solder the actual machine and the sensor onto a perfboard for more permanent use. During this step I added a number display that will show the number of coqui calls picked up by the sensor. The 3 digit display can show up to 999 calls picked up. I address this limit further in my programming of the sensor itself.
 
-The next part of this process involved machine learning. I used the collected audio samples to train a sensor to pick up only coqui frog calls and ignore all other sounds. I did so through Edge Impulse, a program that allows me to upload my samples and train my chosen sensor, the Arduino Nano 33 BLE. Next, I programmed the sensor using C++ to count the coqui frog sounds it picks up. I also programmed the 3 digit display to count up to 999 and then display the word "full" once it reaches 1000. When the display is full, we will collect and reset the sensors. You can see my full code here.
+The next part of this process involved machine learning. I used the collected audio samples to train a sensor to pick up only coqui frog calls and ignore all other sounds. I did so through Edge Impulse, a program that allows me to upload my samples and train my chosen sensor, the Arduino Nano 33 BLE. Next, I programmed the sensor using C++ to count the coqui frog sounds it picks up. I also programmed the 3 digit display to count up to 999 and then display the word "full" once it reaches 1000. When the display is full, we will collect and reset the sensors. You can see my full code [here](https://github.com/erinlpat/erinlpat.github.io/blob/main/code/coquiFrogSensor.cpp).
   </div>
 </div>
 
