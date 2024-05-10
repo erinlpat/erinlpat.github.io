@@ -25,8 +25,8 @@ summary: "A bee hive sensor that tracks a hive's population and internal conditi
 
 ## My Role
 <div class="text-center p-4">
-    <img height="50px" src="../img/BeePhone/BeePhone.jpeg" class="img-thumbnail" >
-    <img height="50px" src="../img/BeePhone/BeeSolar.jpeg" class="img-thumbnail" >
+    <img width="300px" src="../img/BeePhone/BeePhone.jpeg" class="img-thumbnail" >
+    <img width="300px" src="../img/BeePhone/BeeSolar.jpeg" class="img-thumbnail" >
 </div>
 
 ## What Have I Learned
