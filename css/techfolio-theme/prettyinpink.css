@@ -1,7 +1,7 @@
 /* Skyblue Theme: modifies the default theme to use blue in various places. */
 
 /* Use Quicksand as the default font. */
-@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
