@@ -36,5 +36,7 @@ summary: "A bee hive sensor that tracks a hive's population and internal conditi
   </div>
 </div>
 
+<br>
+
 ## What Have I Learned
 Through the maintenance and improvement of the bee phone I have learned a lot about machine learning and electrical engineering as well as software engineering in relation to conservation biology. I really enjoyed learning through such a hands-on process as I get to directly maintain the bee hives and phones' circuit board inside them. I have also learned a great deal about programming in C++ and Python from my graduate lab advisor. He is involving me in the development of the solar panel feature and showing me how he is coding it to track the direction of bee movement. Though I do not fully understand it yet, I am grateful that he has taken the time to teach me. Another very important thing I have learned from this project is managing and scheduling fieldwork. It is my responsibility to go out into the field and maintain the bee phones often enough to ensure they work properly which has taught me a lot about responsibility and communication with my team. Overall, this project has helped me develop into a better team member and given me a valuable peek into advanced machine learning and programming.  
