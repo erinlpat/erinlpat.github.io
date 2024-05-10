@@ -18,7 +18,7 @@ summary: "A "Bee Phone" sensor that keeps track of hive population and condition
     <img width="200px" src="../img/BeePhone/BeeMe.jpeg" alt="Me in a Bee Suit">
   </div>
   <div>
-    text
+    The Bee Phone is an ongoing project I am assisting with in Dr. Mark Wright's conservation lab in UH Manoa's College of Tropical Agriculture and Human Resources. This project is still a work in progress with work beginning in March of 2023.
   </div>
 </div>
 
