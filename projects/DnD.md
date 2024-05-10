@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Dnd/DnDCover.jpeg
+image: img/DnD/DnDCover.jpeg
 title: "DnD Campaign"
 date: 2022
 published: true
@@ -26,49 +26,5 @@ This DnD campaign was one of the first ones I had a hand in creating instead of 
 ## What Have I Learned?
 This project helped me gain experience using Javascript and was part of how I discover how coding can be applicable to real-life scenarios even in small ways. Other than technical skills, this campaign put me in a position of leadership where I had to consistently organize and maintain gaming sessions, story-building, and manage a team of 8 players. This helped me learn how to lead complex projects and foster teamwork and creativity in a group of people new to the game. 
 
-```javascript
-function roll(diceType){
-    let diceRoll = 0;
-    // Roll a D20
-    if(diceType === 20){
-        diceRoll = Math.floor(Math.random() * 20) + 1;
-        return "You rolled " + diceRoll;
-    }
-    // Roll a D12
-    else if(diceType === 12){
-        diceRoll = Math.floor(Math.random() * 12) + 1;
-        return "You rolled " + diceRoll;
-    }
-    // Roll a D10
-    else if(diceType === 10){
-        diceRoll = Math.floor(Math.random() * 10) + 1;
-        return "You rolled " + diceRoll;
-    }
-    // Roll a D8
-    else if(diceType === 8){
-        diceRoll = Math.floor(Math.random() * 8) + 1;
-        return "You rolled " + diceRoll;
-    }
-    // Roll a D6
-    else if(diceType === 6){
-        diceRoll = Math.floor(Math.random() * 6) + 1;
-        return "You rolled " + diceRoll;
-    }
-    // Roll a D4
-    else if(diceType === 4){
-        diceRoll = Math.floor(Math.random() * 4) + 1;
-        return "You rolled " + diceRoll;
-    }
-    else {
-        return "That dice type does not exist!";
-    }
-}
-
-console.log(roll(20));
-console.log(roll(12));
-console.log(roll(10));
-console.log(roll(8));
-console.log(roll(6));
-console.log(roll(4));
-console.log(roll(2));
-
+Below I will include my dice roll program.
+<script async src="//jsfiddle.net/erinlpat/qngco0w2/15/embed/"></script>
