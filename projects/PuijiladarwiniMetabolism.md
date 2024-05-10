@@ -4,7 +4,7 @@ type: project
 image: img/Puijiladarwini1.jpg
 title: "Metabolism and Heat Balance Analysis of a Pinniped Ancestor"
 date: 2021
-published: true
+published: false
 labels:
   - R
   - Excel
