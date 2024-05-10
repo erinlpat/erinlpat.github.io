@@ -39,11 +39,15 @@ The next part of this process involved machine learning. I used the collected au
   </div>
 </div>
 
+<br>
+
 <div class="text-center p-4">
-    <img width="400px" src="../img/Coqui/CoquiBreadBoard.jpeg" class="img-thumbnail" >
-    <img width="400px" src="../img/Coqui/PerfBoard.jpeg" class="img-thumbnail" >
-    <img width="300px" src="../img/Coqui/SensorLexie.jpeg" class="img-thumbnail" >
+    <img width="400px" style="margin: 10px;" src="../img/Coqui/CoquiBreadBoard.jpeg" class="img-thumbnail" >
+    <img width="400px" style="margin: 10px;" src="../img/Coqui/PerfBoard.jpeg" class="img-thumbnail" >
+    <img width="300px" style="margin: 10px;" src="../img/Coqui/SensorLexie.jpeg" class="img-thumbnail" >
 </div>
+
+<br>
 
 After training my Arduino sensor, I connected it to my breadboard and began to solder it to a perfboard to make it permanent. I am currently in this stage of the sensor's creation. You can see my progress on the perfboard in the last two pictures above. The last picture shows my other trusty lab assitant lexie checking my soldering quality.
 
