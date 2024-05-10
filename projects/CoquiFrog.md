@@ -1,13 +1,14 @@
 ---
 layout: project
 type: project
-image: img/Coqui/Coqui.jpg
+image: img/Coqui/CoquiThumbnail.jpeg
 title: "Coqui Frog Sensor"
 date: 2023
 published: true
 labels:
-  - Python
+  - C++
   - Machine Learning
+  - Electrical Engineering
 summary: "A Coqui Frog sound sensor that detects the presence of the invasive species."
 ---
 
