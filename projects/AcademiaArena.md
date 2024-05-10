@@ -17,12 +17,14 @@ summary: "A trading card game web application created by me and my ICS 314 peers
 ## Overview
 <div style="display: flex; align-items: center;">
 <div style="margin-left: 20px; display: flex;">
-        <img width="200px" style="margin: 10px;" src="../img/AcademiaArena/AAHome.png" alt="Coqui Frog">
+        <img width="400px" style="margin: 10px;" src="../img/AcademiaArena/AAHome.png" alt="Coqui Frog">
       </div>
   <div>
       Academia Arena is a web application that a group of students and I created in ICS 314 as our final project. It is a trading card game where the user may pull for, trade, and collect UH Manoa ICS Professors as cards. Academia Arena serves as a cute and fun way for students to get to know the professors they will be learning from during their time as an ICS student at UH Manoa. We hope that it will help to foster a sense of community within the department and encourage students to approach their professors and develop valuable relationships. This application was the culmination of our hard work throughout ICS 314. We were able to put on display our growth in fullstack development including application design, database management, and functional programming. 
   </div>
 </div>
+
+<br>
 
 ## My Role
 
