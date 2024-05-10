@@ -10,8 +10,8 @@ labels:
   - Software Engineering
 ---
 <div class="text-center p-4">
-  <img width="400px" src="../img/UHGym.jpg" class="img-thumbnail">
-  <img width="400px" src="../img/warrior-gym.jpg" class="img-thumbnail">
+  <img width="400px" src="../img/EssayImages/UHGym.jpg" class="img-thumbnail">
+  <img width="400px" src="../img/EssayImages/warrior-gym.jpg" class="img-thumbnail">
 </div>
 
 # Group Members

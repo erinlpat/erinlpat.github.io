@@ -13,7 +13,7 @@ labels:
   - Coding Standards
 ---
 <div class="text-center p-4">
-  <img width="400px" src="../img/bilbo.png" class="img-thumbnail">
+  <img width="400px" src="../img/EssayImages/bilbo.png" class="img-thumbnail">
 </div>
 
 # Changing Paths

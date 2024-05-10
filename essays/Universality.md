@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 <div class="text-center p-4">
-  <img width="400px" src="../img/standards.png" class="img-thumbnail" >
+  <img width="400px" src="../img/EssayImages/standards.png" class="img-thumbnail" >
 </div>
 
 # Experience With IntelliJ and ESLint

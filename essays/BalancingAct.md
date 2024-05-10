@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 <div class="text-center p-4">
-  <img width="400px" src="../img/rachel.png" class="img-thumbnail">
+  <img width="400px" src="../img/EssayImages/rachel.png" class="img-thumbnail">
 </div>
 
 ### I. Introduction

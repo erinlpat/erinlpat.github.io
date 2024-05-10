@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 <div class="text-center p-4">
-  <img width="400px" src="../img/SmartQuestion" class="img-thumbnail" >
+  <img width="400px" src="../img/EssayImages/SmartQuestion" class="img-thumbnail" >
 </div>
 
 # My Experience
