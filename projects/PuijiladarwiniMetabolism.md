@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Puijiladarwini1.jpg
+image: img/Puijila/Puijiladarwini1.jpg
 title: "Metabolism and Heat Balance Analysis of a Pinniped Ancestor"
 date: 2021
 published: true
@@ -13,9 +13,9 @@ labels:
 summary: "A predictive analysis of the metabolism and heat balance of the common ancestor of modern-day pinnipeds, the Puijila darwini. "
 ---
 <div class="text-center p-4">
-  <img width="400px" src="../img/Puijila2.png" class="img-thumbnail" >
-  <img width="200px" src="../img/Puijila3.png" class="img-thumbnail" >
-  <img width="400px" src="../img/Puijila4.png" class="img-thumbnail" >
+  <img width="400px" src="../img/Puijila/Puijila2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Puijila/Puijila3.png" class="img-thumbnail" >
+  <img width="400px" src="../img/Puijila/Puijila4.png" class="img-thumbnail" >
 </div>
 
 ## Overview
@@ -27,7 +27,7 @@ As this was a completely independent project, I took charge of all facets of res
 ## What I Learned
 In this project I gained experience with data science and its associated technologies like the program R. I also learned valuable lessons about research methods and how to ensure your data is reliable and significant. I used R to compile, analyze, and extrapolate data about the Puijila darwini's metabolic rates using just measurements from the physical morphology of its fossil and modern data from extant pinnipeds. Doing my own research about the species and then having to translate that data into programming skills was an extremely challenging yet interesting endeavour. I also learned a lot about compiling and presenting data in a readable and understandable way during this project so that I could properly present my findings to an uninvolved audience.
 
-Here is a link to the full <a href="https://erinlpat.github.io/essays/PuijilaMetabolism.pdf" target="_blank">paper.</a>
+Here is a link to the full <a href="https://erinlpat.github.io/essays/PuijilaMetabolism.pdf" target="_blank">paper</a> where you can read about my full hypothesis, methods, and results.
 
 Below is an excerpt of code I created in R to do these calculations.
 
