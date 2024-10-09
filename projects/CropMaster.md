@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CropMaster/MealyBugDamage.png
+image: img/CropMaster/MealyBugDamage.jpeg
 title: "Crop Knowledge Master"
 date: 2024
 published: true
