@@ -5,26 +5,26 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-pink1: #ec81cb;
-  --tf-pink2: #eeb0db;
-  --tf-pink3: #f198b6;
-  --tf-pink4: #fad4ee;
+  --tf-sage1: #76b06c;
+  --tf-sage2: #98bda7;
+  --tf-sage3: #549372;
+  --tf-sage4: #34652e;
   --bs-font-sans-serif: "Quicksand", sans-serif;
-  --bs-link-color: var(--tf-pink1);
-  --tf-pill-bg: var(--tf-pink3);
-  --tf-icon-fill: var(--tf-pink1);
-  --tf-icon-hover: var(--tf-pink3);
+  --bs-link-color: var(--tf-sage4);
+  --tf-pill-bg: var(--tf-sage1);
+  --tf-icon-fill: var(--tf-sage2);
+  --tf-icon-hover: var(--tf-sage4);
   --tf-page-bg-color: white;
-  --tf-footer-bg-color: var(--tf-pink4);
-  --tf-projects-bg-color: var(--tf-pink4);
+  --tf-footer-bg-color: var(--tf-sage2);
+  --tf-projects-bg-color: var(--tf-sage2);
 }
 
 #navbar {
-  background-color: var(--tf-pink2);
+  background-color: var(--tf-sage1);
 }
 
 h1,h2,h3,h4,h5 {
-  color: var(--tf-pink1);
+  color: var(--tf-sage1);
   font-family: var(--bs-font-sans-serif);
 }
 
@@ -35,7 +35,7 @@ h1,h5 {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-pink1);
+  fill: var(--tf-sage1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
@@ -51,7 +51,7 @@ a {
 }
 
 .rounded-circle {
-  border-color: var(--tf-pink1);
+  border-color: var(--tf-sage1);
   border-style: solid;
   border-width: 1px;
 }

@@ -32,11 +32,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Biology and Computer Science (expected Spring, 2024)",
+      "area": "Biology and Computer Science",
       "studyType": "B.S.",
       "startDate": "2019-09-01",
-      "endDate": "Present",
-      "courses": [
+      "endDate": "2024-08-16",
+      "courses": ["Software Engineering", "Algorithms", "Zoology", "Bioinformatics", "Entomology"
       ]
     }
   ],
@@ -59,7 +59,7 @@
       "position": "Sales Associate",
       "website": "https://www.thefaceshop.com.my",
       "startDate": "2023-10-01",
-      "endDate": "Present",
+      "endDate": "2024-8-01",
       "summary": "Expert in skincare-focused cosmetics, adept at educating customers on ingredient benefits and their interactions with the skin. Delivered personalized service, enhancing customer satisfaction and driving sales through informed consultations and up-to-date knowledge of industry trends.",
       "highlights": [
         "Provided personalized skincare consultations, leveraging in-depth knowledge of cosmetic chemistry and ingredient efficacy to recommend tailored products for customers' specific skin concerns.",
