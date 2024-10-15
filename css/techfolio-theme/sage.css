@@ -1,0 +1,57 @@
+/* Skyblue Theme: modifies the default theme to use blue in various places. */
+
+/* Use Quicksand as the default font. */
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --tf-pink1: #ec81cb;
+  --tf-pink2: #eeb0db;
+  --tf-pink3: #f198b6;
+  --tf-pink4: #fad4ee;
+  --bs-font-sans-serif: "Quicksand", sans-serif;
+  --bs-link-color: var(--tf-pink1);
+  --tf-pill-bg: var(--tf-pink3);
+  --tf-icon-fill: var(--tf-pink1);
+  --tf-icon-hover: var(--tf-pink3);
+  --tf-page-bg-color: white;
+  --tf-footer-bg-color: var(--tf-pink4);
+  --tf-projects-bg-color: var(--tf-pink4);
+}
+
+#navbar {
+  background-color: var(--tf-pink2);
+}
+
+h1,h2,h3,h4,h5 {
+  color: var(--tf-pink1);
+  font-family: var(--bs-font-sans-serif);
+}
+
+h1,h5 {
+  font-weight: bold;
+}
+
+/* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-pink1);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+}
+
+a {
+  text-decoration: none;
+}
+
+.rounded-circle {
+  border-color: var(--tf-pink1);
+  border-style: solid;
+  border-width: 1px;
+}
