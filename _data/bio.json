@@ -6,7 +6,7 @@
     "email": "erinlpat@hawaii.edu",
     "phone": "808-561-1656",
     "website": "https://erinlpat.github.io",
-    "summary": "I am studying for a B.S. in Biology with a minor in Computer Sciences in the Departments of Natural Sciences and Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am a recent graduate of the University of Hawaii at Manoa with a degree in biology and a minor in computer science driven about applying technology to address environmental challenges and advance sustainable conservation efforts.",
     "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "erinlpat", "url": "http://github.com/erinlpat" },
@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML", "R"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "R", "Meteor"]
+      "keywords": [ "MacOS", "Git/GitHub", "Meteor", "Edge Impulse", "Rhinoceros 3D"]
     }
   ],
   "education": [
