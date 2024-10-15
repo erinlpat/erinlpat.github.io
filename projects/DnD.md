@@ -4,7 +4,7 @@ type: project
 image: img/DnD/DnDCover.jpeg
 title: "Dugeons and Dragons Campaign"
 date: 2022
-published: true
+published: false
 labels:
   - Teamwork
   - Creativity
