@@ -8,7 +8,7 @@
   --tf-sage1: #76b06c;
   --tf-sage2: #98bda7;
   --tf-sage3: #549372;
-  --tf-sage4: #34652e;
+  --tf-sage4: #1f461a;
   --bs-font-sans-serif: "Quicksand", sans-serif;
   --bs-link-color: var(--tf-sage4);
   --tf-pill-bg: var(--tf-sage1);
@@ -26,6 +26,7 @@
 h1,h2,h3,h4,h5 {
   color: var(--tf-sage4);
   font-family: var(--bs-font-sans-serif);
+  font-weight: bold;
 }
 
 h1,h5 {
