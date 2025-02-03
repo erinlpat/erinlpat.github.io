@@ -4,7 +4,7 @@ type: project
 image: img/Coqui/CoquiThumbnail.jpeg
 title: "Ramie Moth Colony"
 date: 2025
-published: true
+published: false
 labels:
   - Entomology
   - Biotechnology
