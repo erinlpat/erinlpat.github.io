@@ -15,7 +15,7 @@ summary: "An ongoing study about the recent appearance of the invasive Ramie Mot
 ## Overview
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
-    <img width="200px" src="../img/Coqui/Coqui.jpg" alt="Coqui Frog">
+    <img width="200px" src="../img/Ramie/yellowMorph1.jpg" alt="Ramie Original Yellow Morph">
   </div>
   <div>
     The Ramie Moth Colony is a project I assisted with in Dr. Mark Wright's lab in UH Manoa's College of Tropical Agriculture and Human Resources (CTAHR) working under Michelle Au. 
@@ -27,7 +27,7 @@ summary: "An ongoing study about the recent appearance of the invasive Ramie Mot
 ## My Role
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
-    <img width="200px" src="../img/Coqui/April.jpeg" alt="April and me">
+    <img width="200px" src="../img/Ramie/eggs.JPG" alt="Ramie Eggs">
   </div>
   <div>
     Hello
