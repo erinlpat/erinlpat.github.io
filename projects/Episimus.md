@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Coqui/CoquiThumbnail.jpeg
+image: img/Episimus/EpisimusThumbnail.jpg
 title: "Episimus Life Tables"
 date: 2025
 published: true
@@ -9,13 +9,13 @@ labels:
   - Entomology
   - Biotechnology
   - Conservation Biology
-summary: "An ongoing study Episimus moth life stages and how they interact with the invasive Christmas Berry Tree."
+summary: "An ongoing study of Episimus moth life stages and how they interact with the invasive Christmas Berry Tree."
 ---
 
 ## Overview
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
-    <img width="200px" src="../img/Ramie/RamieYellowMorph1.jpeg" alt="Ramie Original Yellow Morph">
+    <img width="200px" src="../img/Episimus/ChristmasBerry.jpg" alt="Christmas Berry Tree">
   </div>
   <div>
     The Episimis Life Table project is a project I assist with in Dr. Mark Wright's lab in UH Manoa's College of Tropical Agriculture and Human Resources (CTAHR) working under Michelle Au.
@@ -25,9 +25,18 @@ summary: "An ongoing study Episimus moth life stages and how they interact with 
 <br>
 
 ## My Role
+<div class="text-center p-4">
+    <img width="300px" style="margin: 10px;" src="../img/Episimus/EpisimusBag.jpeg" class="img-thumbnail" >
+    <img width="300px" style="margin: 10px;" src="../img/Episimus/EpisimusCat1.jpeg" class="img-thumbnail" >
+    <img width="300px" style="margin: 10px;" src="../img/Episimus/EpisimusEggs.jpeg" class="img-thumbnail" >
+</div>
+
+<br>
+
+## What Have I Learned so Far?
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
-    <img width="200px" src="../img/Ramie/RamieEggs.jpeg" alt="Ramie Eggs">
+    <img width="200px" src="../img/Episimus/EpisimusCat2.jpeg" alt="Episimus Caterpillar 2">
   </div>
   <div>
     Hello
@@ -36,5 +45,4 @@ summary: "An ongoing study Episimus moth life stages and how they interact with 
 
 <br>
 
-## What Have I Learned so Far?
-Hello
+## Future Plans
